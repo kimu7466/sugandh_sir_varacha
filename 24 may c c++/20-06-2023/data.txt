@@ -1,0 +1,13 @@
+user given num of student --- 5
+rollno
+name
+age
+mobile
+hindi
+english
+gujarati
+science
+maths
+total
+percentage
+grade
